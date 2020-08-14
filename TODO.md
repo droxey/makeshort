@@ -1,0 +1,3 @@
+- Need usage instructions in README
+- Hangs after successful submission; no feedback to user
+- Save username and password
